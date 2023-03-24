@@ -1,0 +1,11 @@
+{
+	"Health": "Vigor",
+	"Spell Slots": "Attunement",
+	"Stamina": "Endurance",
+	"Equip Load": "Vitality",
+	"Big Weapons": "Strength",
+	"Small Weapons": "Dexterity",
+	"Catalysts": "Intelligence",
+	"Talismans": "Faith",
+	"Item Discovery": "Luck"
+}

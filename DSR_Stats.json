@@ -1,9 +1,9 @@
 {
-    "Health": "Vitality",
-    "Spell Slots": "Attunement",
-    "Equip Load/Stamina": "Endurance",
-    "Big Weapons": "Strength",
-    "Small Weapons": "Dexterity",
-    "Catalysts": "Intelligence",
-    "Talismans": "Faith"
+	"Health": "Vitality",
+	"Spell Slots": "Attunement",
+	"Equip Load/Stamina": "Endurance",
+	"Big Weapons": "Strength",
+	"Small Weapons": "Dexterity",
+	"Catalysts": "Intelligence",
+	"Talismans": "Faith"
 }
