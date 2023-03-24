@@ -1,0 +1,9 @@
+Vigor
+Attunement
+Endurance
+Vitality
+Strength
+Dexterity
+Intelligence
+Faith
+Luck
